@@ -1,0 +1,360 @@
+[17:17:25] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[17:17:25] [main/INFO]: Reloading ResourceManager: Default, bukkit
+[17:17:26] [Worker-Main-14/INFO]: Loaded 7 recipes
+[17:17:27] [Server thread/INFO]: Starting minecraft server version 1.16.5
+[17:17:27] [Server thread/INFO]: Loading properties
+[17:17:27] [Server thread/INFO]: This server is running CraftBukkit version 3053-Spigot-4225eac-69c8e78 (MC: 1.16.5) (Implementing API version 1.16.5-R0.1-SNAPSHOT)
+[17:17:27] [Server thread/INFO]: Debug logging is disabled
+[17:17:27] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[17:17:27] [Server thread/INFO]: Using 4 threads for Netty based IO
+[17:17:27] [Server thread/INFO]: Default game type: SURVIVAL
+[17:17:27] [Server thread/INFO]: Generating keypair
+[17:17:27] [Server thread/INFO]: Starting Minecraft server on *:25565
+[17:17:27] [Server thread/INFO]: Using default channel type
+[17:17:29] [Server thread/WARN]: Initializing Legacy Material Support. Unless you have legacy plugins and/or data this is a bug!
+[17:17:31] [Server thread/WARN]: Legacy plugin BetterStaff v1.0-SNAPSHOT does not specify an api-version.
+[17:17:31] [Server thread/WARN]: Legacy plugin VoteSysteem v1.0 does not specify an api-version.
+[17:17:31] [Server thread/WARN]: Legacy plugin JochenGangSMP v1.0 does not specify an api-version.
+[17:17:31] [Server thread/INFO]: [BetterSleeping3] Loading BetterSleeping3 v3.0.6
+[17:17:31] [Server thread/INFO]: [BetterStaff] Loading BetterStaff v1.0-SNAPSHOT
+[17:17:31] [Server thread/INFO]: [VoteSysteem] Loading VoteSysteem v1.0
+[17:17:31] [Server thread/INFO]: [JochenGangSMP] Loading JochenGangSMP v1.0
+[17:17:31] [Server thread/INFO]: Preparing level "world"
+[17:17:32] [Server thread/INFO]: -------- World Settings For [world] --------
+[17:17:32] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[17:17:32] [Server thread/INFO]: Item Despawn Rate: 6000
+[17:17:32] [Server thread/INFO]: Item Merge Radius: 2.5
+[17:17:32] [Server thread/INFO]: View Distance: 10
+[17:17:32] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[17:17:32] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[17:17:32] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[17:17:32] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[17:17:32] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[17:17:32] [Server thread/INFO]: Experience Merge Radius: 3.0
+[17:17:32] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[17:17:32] [Server thread/INFO]: Cane Growth Modifier: 100%
+[17:17:32] [Server thread/INFO]: Melon Growth Modifier: 100%
+[17:17:32] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[17:17:32] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[17:17:32] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[17:17:32] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[17:17:32] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[17:17:32] [Server thread/INFO]: Potato Growth Modifier: 100%
+[17:17:32] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[17:17:32] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[17:17:32] [Server thread/INFO]: Vine Growth Modifier: 100%
+[17:17:32] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[17:17:32] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[17:17:32] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[17:17:32] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[17:17:32] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
+[17:17:32] [Server thread/INFO]: Mob Spawn Range: 6
+[17:17:32] [Server thread/INFO]: Max TNT Explosions: 100
+[17:17:32] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[17:17:32] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Bastion: 30084232 Fortress: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[17:17:32] [Server thread/INFO]: -------- World Settings For [world_nether] --------
+[17:17:32] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[17:17:32] [Server thread/INFO]: Item Despawn Rate: 6000
+[17:17:32] [Server thread/INFO]: Item Merge Radius: 2.5
+[17:17:32] [Server thread/INFO]: View Distance: 10
+[17:17:32] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[17:17:32] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[17:17:32] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[17:17:32] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[17:17:32] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[17:17:32] [Server thread/INFO]: Experience Merge Radius: 3.0
+[17:17:32] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[17:17:32] [Server thread/INFO]: Cane Growth Modifier: 100%
+[17:17:32] [Server thread/INFO]: Melon Growth Modifier: 100%
+[17:17:32] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[17:17:32] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[17:17:32] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[17:17:32] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[17:17:32] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[17:17:32] [Server thread/INFO]: Potato Growth Modifier: 100%
+[17:17:32] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[17:17:32] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[17:17:32] [Server thread/INFO]: Vine Growth Modifier: 100%
+[17:17:32] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[17:17:32] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[17:17:32] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[17:17:32] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[17:17:32] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
+[17:17:32] [Server thread/INFO]: Mob Spawn Range: 6
+[17:17:32] [Server thread/INFO]: Max TNT Explosions: 100
+[17:17:32] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[17:17:32] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Bastion: 30084232 Fortress: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[17:17:32] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
+[17:17:32] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[17:17:32] [Server thread/INFO]: Item Despawn Rate: 6000
+[17:17:32] [Server thread/INFO]: Item Merge Radius: 2.5
+[17:17:32] [Server thread/INFO]: View Distance: 10
+[17:17:32] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[17:17:32] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[17:17:32] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[17:17:32] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[17:17:32] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[17:17:32] [Server thread/INFO]: Experience Merge Radius: 3.0
+[17:17:32] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[17:17:32] [Server thread/INFO]: Cane Growth Modifier: 100%
+[17:17:32] [Server thread/INFO]: Melon Growth Modifier: 100%
+[17:17:32] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[17:17:32] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[17:17:32] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[17:17:32] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[17:17:32] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[17:17:32] [Server thread/INFO]: Potato Growth Modifier: 100%
+[17:17:32] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[17:17:32] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[17:17:32] [Server thread/INFO]: Vine Growth Modifier: 100%
+[17:17:32] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[17:17:32] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[17:17:32] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[17:17:32] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[17:17:32] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
+[17:17:32] [Server thread/INFO]: Mob Spawn Range: 6
+[17:17:32] [Server thread/INFO]: Max TNT Explosions: 100
+[17:17:32] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[17:17:32] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Bastion: 30084232 Fortress: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[17:17:32] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[17:17:33] [Server thread/INFO]: Preparing spawn area: 0%
+[17:17:33] [Server thread/INFO]: Preparing spawn area: 0%
+[17:17:33] [Server thread/INFO]: Preparing spawn area: 0%
+[17:17:33] [Server thread/INFO]: Preparing spawn area: 0%
+[17:17:34] [Server thread/INFO]: Time elapsed: 1924 ms
+[17:17:34] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[17:17:35] [Server thread/INFO]: Preparing spawn area: 0%
+[17:17:35] [Server thread/INFO]: Preparing spawn area: 0%
+[17:17:35] [Server thread/INFO]: Preparing spawn area: 0%
+[17:17:35] [Server thread/INFO]: Time elapsed: 1278 ms
+[17:17:35] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[17:17:35] [Server thread/INFO]: Preparing spawn area: 0%
+[17:17:35] [Server thread/INFO]: Time elapsed: 347 ms
+[17:17:35] [Server thread/INFO]: [BetterSleeping3] Enabling BetterSleeping3 v3.0.6
+[17:17:35] [Server thread/INFO]: [BetterSleeping3] No missing options were found in config.yml![m
+[17:17:35] [Server thread/INFO]: [BetterSleeping3] No missing options were found in sleeping_settings.yml![m
+[17:17:35] [Server thread/INFO]: [BetterSleeping3] No missing options were found in bypassing.yml![m
+[17:17:35] [Server thread/INFO]: [BetterSleeping3] Using localised lang file for: en-US[m
+[17:17:35] [Server thread/INFO]: [BetterSleeping3] No missing options were found in lang/en-us.yml![m
+[17:17:35] [Server thread/INFO]: [BetterSleeping3] Using 'smooth' as night skip mode[m
+[17:17:35] [Server thread/INFO]: [BetterSleeping3] Messages will be shown in chat[m
+[17:17:35] [Server thread/INFO]: [BetterSleeping3] Using required sleepers counter 'percentage' which is set to 30% of players required[m
+[17:17:35] [Server thread/INFO]: [BetterSleeping3] The message below is always shown, even if collecting data is disabled: [m
+[17:17:35] [Server thread/INFO]: [BetterSleeping3] BetterSleeping collects anonymous statistics once every 30 minutes. Opt-out at bStats/config.yml[m
+[17:17:35] [Server thread/INFO]: [BetterStaff] Enabling BetterStaff v1.0-SNAPSHOT
+[17:17:35] [Server thread/INFO]: [0;37;22m[9m---*------[[m [0;32;1mENABLE [0;37;22m[9m]------*---[m
+[17:17:35] [Server thread/INFO]: [m
+[17:17:35] [Server thread/INFO]:  [0;37;22m? [0;33;22mName[0;37;22m: [0;37;1mBetterStaff[m
+[17:17:35] [Server thread/INFO]:  [0;37;22m? [0;33;22mAuthor[0;37;22m: [0;37;1m[Risas][m
+[17:17:35] [Server thread/INFO]:  [0;37;22m? [0;33;22mVersion[0;37;22m: [0;37;1m1.0-SNAPSHOT[m
+[17:17:35] [Server thread/INFO]: [m
+[17:17:35] [Server thread/INFO]: [0;37;22m[9m---*------[[m [0;32;1mENABLE [0;37;22m[9m]------*---[m
+[17:17:35] [Server thread/INFO]: [VoteSysteem] Enabling VoteSysteem v1.0
+[17:17:36] [Server thread/INFO]: [0;32;1mHet votesysteem is klaar voor gebruik![m
+[17:17:36] [Server thread/INFO]: [JochenGangSMP] Enabling JochenGangSMP v1.0
+[17:17:36] [Server thread/INFO]: [JochenGangSMP] §bDe JochenGangSMP Plugin werkt!
+[17:17:36] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[17:17:36] [Server thread/INFO]: Done (4.611s)! For help, type "help"
+[17:17:36] [Thread-9/INFO]: [BetterSleeping3] You are using the latest version: 3.0.6[m
+[17:17:36] [Server thread/INFO]: com.mojang.authlib.GameProfile@728bd806[id=<null>,name=FG_YUICY,properties={},legacy=false] (/86.95.162.236:64227) lost connection: Disconnected
+[17:17:51] [User Authenticator #1/INFO]: UUID of player FG_YUICY is 594feef1-f763-4973-af38-fb84dbd23bc4
+[17:17:51] [Server thread/INFO]: FG_YUICY[/86.95.162.236:64235] logged in with entity id 148 at ([world]273.04925379517334, 72.0, -96.86279172406903)
+[17:17:55] [User Authenticator #2/INFO]: UUID of player iHuug is c2462465-5e79-4363-83a7-108d96caf5ab
+[17:17:55] [Server thread/INFO]: iHuug[/217.121.53.226:52358] logged in with entity id 261 at ([world]1728.8933870135438, 61.62666515553471, 3358.5911614007146)
+[17:18:01] [Async Chat Thread - #0/INFO]: [0;35;1m[CRINGE] [0;33;22mxXPro_Gekkie_Xx: [0;37;1mwoop[m
+[17:18:11] [Async Chat Thread - #0/INFO]: [0;35;1m[CRINGE] [0;33;22mxXPro_Gekkie_Xx: [0;37;1mkan je slapen?[m
+[17:18:12] [Async Chat Thread - #0/INFO]: [0;35;1m[CRINGE] [0;33;22mxXPro_Gekkie_Xx: [0;37;1mty[m
+[17:18:17] [Async Chat Thread - #0/INFO]: [0;33;22m[TRENCH] [0;37;1mFG_YUICY: [0;37;1mhahah[m
+[17:29:44] [Server thread/WARN]: iHuug moved too quickly! 14.804141892723237,2.519999921321869,-0.38615458109779865
+[17:36:56] [Server thread/INFO]: Scanning for legacy world dragon fight...
+[17:36:56] [Server thread/INFO]: Found that the dragon has been killed in this world already.
+[17:41:48] [Async Chat Thread - #1/INFO]: [0;35;1m[CRINGE] [0;33;22mxXPro_Gekkie_Xx: [0;37;1mkan je slapen?[m
+[17:41:54] [Async Chat Thread - #1/INFO]: [0;33;22m[TRENCH] [0;37;1mFG_YUICY: [0;37;1mja 1 sec[m
+[17:42:26] [Async Chat Thread - #1/INFO]: [0;35;1m[CRINGE] [0;33;22mxXPro_Gekkie_Xx: [0;37;1mthx[m
+[17:48:41] [Server thread/ERROR]: Could not pass event InventoryClickEvent to VoteSysteem v1.0
+org.bukkit.event.EventException: null
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:319) ~[spigot.jar:3053-Spigot-4225eac-69c8e78]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70) ~[spigot.jar:3053-Spigot-4225eac-69c8e78]
+	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:589) ~[spigot.jar:3053-Spigot-4225eac-69c8e78]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:576) ~[spigot.jar:3053-Spigot-4225eac-69c8e78]
+	at net.minecraft.server.v1_16_R3.PlayerConnection.a(PlayerConnection.java:2435) ~[spigot.jar:3053-Spigot-4225eac-69c8e78]
+	at net.minecraft.server.v1_16_R3.PacketPlayInWindowClick.a(SourceFile:32) ~[spigot.jar:3053-Spigot-4225eac-69c8e78]
+	at net.minecraft.server.v1_16_R3.PacketPlayInWindowClick.a(SourceFile:10) ~[spigot.jar:3053-Spigot-4225eac-69c8e78]
+	at net.minecraft.server.v1_16_R3.PlayerConnectionUtils.lambda$0(PlayerConnectionUtils.java:28) ~[spigot.jar:3053-Spigot-4225eac-69c8e78]
+	at net.minecraft.server.v1_16_R3.TickTask.run(SourceFile:18) ~[spigot.jar:3053-Spigot-4225eac-69c8e78]
+	at net.minecraft.server.v1_16_R3.IAsyncTaskHandler.executeTask(SourceFile:144) ~[spigot.jar:3053-Spigot-4225eac-69c8e78]
+	at net.minecraft.server.v1_16_R3.IAsyncTaskHandlerReentrant.executeTask(SourceFile:23) ~[spigot.jar:3053-Spigot-4225eac-69c8e78]
+	at net.minecraft.server.v1_16_R3.IAsyncTaskHandler.executeNext(SourceFile:118) ~[spigot.jar:3053-Spigot-4225eac-69c8e78]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.bb(MinecraftServer.java:1061) ~[spigot.jar:3053-Spigot-4225eac-69c8e78]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.executeNext(MinecraftServer.java:1054) ~[spigot.jar:3053-Spigot-4225eac-69c8e78]
+	at net.minecraft.server.v1_16_R3.IAsyncTaskHandler.awaitTasks(SourceFile:127) ~[spigot.jar:3053-Spigot-4225eac-69c8e78]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.sleepForTick(MinecraftServer.java:1038) ~[spigot.jar:3053-Spigot-4225eac-69c8e78]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.w(MinecraftServer.java:970) ~[spigot.jar:3053-Spigot-4225eac-69c8e78]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.lambda$0(MinecraftServer.java:273) ~[spigot.jar:3053-Spigot-4225eac-69c8e78]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_291]
+Caused by: java.lang.NullPointerException
+	at com.gersom.vote.Commands.Elytra.onChestInteract(Elytra.java:56) ~[?:?]
+	at sun.reflect.GeneratedMethodAccessor21.invoke(Unknown Source) ~[?:?]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[?:1.8.0_291]
+	at java.lang.reflect.Method.invoke(Unknown Source) ~[?:1.8.0_291]
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:315) ~[spigot.jar:3053-Spigot-4225eac-69c8e78]
+	... 18 more
+[17:52:15] [Async Chat Thread - #2/INFO]: [0;35;1m[CRINGE] [0;33;22mxXPro_Gekkie_Xx: [0;37;1meen ocean temple weg hakken is echt een struggle[m
+[17:52:31] [Async Chat Thread - #2/INFO]: [0;33;22m[TRENCH] [0;37;1mFG_YUICY: [0;37;1mja das best logish dat ding is tantoe groot[m
+[17:52:41] [Async Chat Thread - #2/INFO]: [0;35;1m[CRINGE] [0;33;22mxXPro_Gekkie_Xx: [0;37;1men al die beesten[m
+[17:52:45] [Async Chat Thread - #2/INFO]: [0;35;1m[CRINGE] [0;33;22mxXPro_Gekkie_Xx: [0;37;1mdoen zo veel damage[m
+[17:52:47] [Async Chat Thread - #2/INFO]: [0;33;22m[TRENCH] [0;37;1mFG_YUICY: [0;37;1mja ook[m
+[17:54:04] [Async Chat Thread - #3/INFO]: [0;33;22m[TRENCH] [0;37;1mFG_YUICY: [0;37;1mik ga zo slapen bte[m
+[17:54:07] [Async Chat Thread - #3/INFO]: [0;35;1m[CRINGE] [0;33;22mxXPro_Gekkie_Xx: [0;37;1misg[m
+[17:56:54] [Server thread/INFO]: FG_YUICY lost connection: Disconnected
+[17:56:54] [Server thread/INFO]: FG_YUICY left the game
+[18:05:22] [Server thread/INFO]: There are 1 of a max of 20 players online: iHuug
+[18:05:34] [Server thread/INFO]: [Server] Hugo wrm ben jij zo fucking vaak en lang online lol
+[18:05:47] [Async Chat Thread - #4/INFO]: [0;35;1m[CRINGE] [0;33;22mxXPro_Gekkie_Xx: [0;37;1mhleft van de tijd sta ik gwn stil tho haha[m
+[18:05:54] [Server thread/INFO]: [Server] haha oke
+[18:05:56] [Async Chat Thread - #4/INFO]: [0;35;1m[CRINGE] [0;33;22mxXPro_Gekkie_Xx: [0;37;1mik heb gwn altijd mn computer aan[m
+[18:06:05] [Server thread/INFO]: [Server] same
+[18:06:08] [Server thread/INFO]: [Server] meer uit verplichting tho
+[18:06:10] [Server thread/INFO]: [Server] hahahaha
+[18:06:12] [Async Chat Thread - #4/INFO]: [0;35;1m[CRINGE] [0;33;22mxXPro_Gekkie_Xx: [0;37;1mhahaha[m
+[18:06:13] [Async Chat Thread - #4/INFO]: [0;35;1m[CRINGE] [0;33;22mxXPro_Gekkie_Xx: [0;37;1mtroe[m
+[18:06:23] [Server thread/INFO]: [Server] ik moet echt een betere manier vinden gek
+[18:06:23] [Async Chat Thread - #4/INFO]: [0;35;1m[CRINGE] [0;33;22mxXPro_Gekkie_Xx: [0;37;1mik ben best ver met guardian farm[m
+[18:06:27] [Server thread/INFO]: [Server] niceee
+[18:06:28] [Async Chat Thread - #4/INFO]: [0;35;1m[CRINGE] [0;33;22mxXPro_Gekkie_Xx: [0;37;1mhz[m
+[18:06:35] [Server thread/INFO]: [Server] Omdat dit kut is lol
+[18:06:41] [Async Chat Thread - #4/INFO]: [0;35;1m[CRINGE] [0;33;22mxXPro_Gekkie_Xx: [0;37;1mf[m
+[18:09:55] [Async Chat Thread - #5/INFO]: [0;35;1m[CRINGE] [0;33;22mxXPro_Gekkie_Xx: [0;37;1mlaggg[m
+[18:12:29] [Server thread/INFO]: iHuug lost connection: Disconnected
+[18:12:29] [Server thread/INFO]: iHuug left the game
+[18:12:31] [User Authenticator #3/INFO]: UUID of player iHuug is c2462465-5e79-4363-83a7-108d96caf5ab
+[18:12:31] [Server thread/INFO]: iHuug[/217.121.53.226:52601] logged in with entity id 31074 at ([world]1761.3923790740503, 63.0, 3389.4781706353847)
+[18:24:26] [Server thread/INFO]: [Server] still goed?
+[18:24:30] [Async Chat Thread - #6/INFO]: [0;35;1m[CRINGE] [0;33;22mxXPro_Gekkie_Xx: [0;37;1myu[m
+[18:24:36] [Server thread/INFO]: [Server] noice
+[18:26:48] [Async Chat Thread - #7/INFO]: [0;35;1m[CRINGE] [0;33;22mxXPro_Gekkie_Xx: [0;37;1mbrb[m
+[18:26:49] [Server thread/INFO]: iHuug lost connection: Disconnected
+[18:26:49] [Server thread/INFO]: iHuug left the game
+[18:35:22] [User Authenticator #4/INFO]: UUID of player GuidedPhantom is 618658af-b1ea-43a9-8e75-aff8d68baaf2
+[18:35:22] [Server thread/INFO]: GuidedPhantom[/77.164.111.213:49667] logged in with entity id 34034 at ([world]-412.3648089544461, 63.875, -318.1771984414159)
+[18:45:29] [User Authenticator #5/INFO]: UUID of player iHuug is c2462465-5e79-4363-83a7-108d96caf5ab
+[18:45:29] [Server thread/INFO]: iHuug[/217.121.53.226:52743] logged in with entity id 37071 at ([world]1759.5280509068343, 63.0, 3359.1365051624407)
+[18:45:36] [Async Chat Thread - #8/INFO]: [0;35;1m[CRINGE] [0;33;22mxXPro_Gekkie_Xx: [0;37;1mTIIIIIM[m
+[18:45:39] [Async Chat Thread - #8/INFO]: [0;35;1m[CRINGE] [0;33;22mxXPro_Gekkie_Xx: [0;37;1mKAN JE DC[m
+[18:45:39] [Async Chat Thread - #8/INFO]: [21m[ADMIN ZONDER PERMS] [0;32;1mTimDeBeast047: [0;37;1mihug[m
+[18:45:42] [Async Chat Thread - #8/INFO]: [21m[ADMIN ZONDER PERMS] [0;32;1mTimDeBeast047: [0;37;1mnope[m
+[18:45:44] [Async Chat Thread - #8/INFO]: [21m[ADMIN ZONDER PERMS] [0;32;1mTimDeBeast047: [0;37;1mstraks[m
+[18:45:44] [Async Chat Thread - #8/INFO]: [0;35;1m[CRINGE] [0;33;22mxXPro_Gekkie_Xx: [0;37;1mKUT[m
+[18:46:22] [Async Chat Thread - #8/INFO]: [21m[ADMIN ZONDER PERMS] [0;32;1mTimDeBeast047: [0;37;1mis het te optimistisch dat ik een t1 netherite beacon wil maken?[m
+[18:46:37] [Async Chat Thread - #8/INFO]: [0;35;1m[CRINGE] [0;33;22mxXPro_Gekkie_Xx: [0;37;1mvalt wel mee[m
+[18:46:40] [Async Chat Thread - #8/INFO]: [0;35;1m[CRINGE] [0;33;22mxXPro_Gekkie_Xx: [0;37;1mtis wel tt duur[m
+[18:46:44] [Async Chat Thread - #8/INFO]: [21m[ADMIN ZONDER PERMS] [0;32;1mTimDeBeast047: [0;37;1mtrue[m
+[18:46:51] [Async Chat Thread - #8/INFO]: [0;35;1m[CRINGE] [0;33;22mxXPro_Gekkie_Xx: [0;37;1mwel big flex[m
+[18:46:58] [Async Chat Thread - #8/INFO]: [21m[ADMIN ZONDER PERMS] [0;32;1mTimDeBeast047: [0;37;1myessir[m
+[18:47:19] [Async Chat Thread - #8/INFO]: [0;35;1m[CRINGE] [0;33;22mxXPro_Gekkie_Xx: [0;37;1mk heb maar 2 netherite tools and thats it[m
+[18:47:24] [Async Chat Thread - #8/INFO]: [21m[ADMIN ZONDER PERMS] [0;32;1mTimDeBeast047: [0;37;1mhaha oof[m
+[18:47:30] [Async Chat Thread - #8/INFO]: [21m[ADMIN ZONDER PERMS] [0;32;1mTimDeBeast047: [0;37;1mcries in dia tools[m
+[18:47:35] [Async Chat Thread - #8/INFO]: [0;35;1m[CRINGE] [0;33;22mxXPro_Gekkie_Xx: [0;37;1men ze zijn allebei pickaxes[m
+[18:47:40] [Async Chat Thread - #8/INFO]: [21m[ADMIN ZONDER PERMS] [0;32;1mTimDeBeast047: [0;37;1mnoice[m
+[18:47:42] [Async Chat Thread - #8/INFO]: [0;35;1m[CRINGE] [0;33;22mxXPro_Gekkie_Xx: [0;37;1mhaha[m
+[18:47:47] [Async Chat Thread - #8/INFO]: [0;35;1m[CRINGE] [0;33;22mxXPro_Gekkie_Xx: [0;37;1mmax silk en 1tje max fortune[m
+[18:47:54] [Async Chat Thread - #8/INFO]: [21m[ADMIN ZONDER PERMS] [0;32;1mTimDeBeast047: [0;37;1msame[m
+[18:51:36] [Async Chat Thread - #9/INFO]: [21m[ADMIN ZONDER PERMS] [0;32;1mTimDeBeast047: [0;37;1mheb je ink sacs?[m
+[18:51:41] [Async Chat Thread - #9/INFO]: [0;35;1m[CRINGE] [0;33;22mxXPro_Gekkie_Xx: [0;37;1mniet veel[m
+[18:51:42] [Async Chat Thread - #9/INFO]: [0;35;1m[CRINGE] [0;33;22mxXPro_Gekkie_Xx: [0;37;1mwatdan[m
+[18:51:52] [Async Chat Thread - #9/INFO]: [21m[ADMIN ZONDER PERMS] [0;32;1mTimDeBeast047: [0;37;1mnodig voor black concrete[m
+[18:52:12] [Async Chat Thread - #9/INFO]: [0;35;1m[CRINGE] [0;33;22mxXPro_Gekkie_Xx: [0;37;1mja ik moet nu eten daarna kan ik wel iets voor je zorgen[m
+[18:52:15] [Server thread/INFO]: iHuug lost connection: Disconnected
+[18:52:15] [Server thread/INFO]: iHuug left the game
+[19:03:03] [User Authenticator #6/INFO]: UUID of player SquigglyPlot57 is 05545f55-11d9-45c4-a102-ad1b05d034a5
+[19:03:04] [Server thread/INFO]: SquigglyPlot57[/213.184.112.222:58828] logged in with entity id 43702 at ([world]339.24577791003446, 90.0, 25.93994693018189)
+[19:03:26] [Async Chat Thread - #10/INFO]: [0;33;22m[TRENCH] [0;37;1mSquigglyPlot57: [0;37;1myo[m
+[19:12:16] [User Authenticator #7/INFO]: UUID of player FG_YUICY is 594feef1-f763-4973-af38-fb84dbd23bc4
+[19:12:16] [Server thread/INFO]: FG_YUICY[/86.95.162.236:64891] logged in with entity id 45943 at ([world]311.69999998807907, 79.0, -96.30883390424722)
+[19:12:27] [Async Chat Thread - #11/INFO]: [0;33;22m[TRENCH] [0;37;1mSquigglyPlot57: [0;37;1myoo[m
+[19:12:29] [Async Chat Thread - #11/INFO]: [0;33;22m[TRENCH] [0;37;1mFG_YUICY: [0;37;1mik ga ff afk staan[m
+[19:12:32] [Async Chat Thread - #11/INFO]: [0;33;22m[TRENCH] [0;37;1mSquigglyPlot57: [0;37;1mok[m
+[19:12:47] [Async Chat Thread - #11/INFO]: [0;33;22m[TRENCH] [0;37;1mFG_YUICY: [0;37;1mik ben over een uurtje ong terug[m
+[19:12:52] [Async Chat Thread - #11/INFO]: [0;33;22m[TRENCH] [0;37;1mSquigglyPlot57: [0;37;1moke[m
+[19:17:10] [Async Chat Thread - #12/INFO]: [0;33;22m[TRENCH] [0;37;1mFG_YUICY: [0;37;1mo btw tim of dani als ik op een of andere manier dood ga pak dan pls mijn spullen op[m
+[19:17:19] [Async Chat Thread - #12/INFO]: [0;33;22m[TRENCH] [0;37;1mSquigglyPlot57: [0;37;1misg[m
+[19:17:22] [Async Chat Thread - #12/INFO]: [0;33;22m[TRENCH] [0;37;1mFG_YUICY: [0;37;1mik sta bij de mob spawner naast mijn base[m
+[19:17:24] [Async Chat Thread - #12/INFO]: [0;33;22m[TRENCH] [0;37;1mSquigglyPlot57: [0;37;1mtim is ook afk btw[m
+[19:17:28] [Async Chat Thread - #12/INFO]: [0;33;22m[TRENCH] [0;37;1mFG_YUICY: [0;37;1mo[m
+[19:17:29] [Async Chat Thread - #12/INFO]: [0;33;22m[TRENCH] [0;37;1mFG_YUICY: [0;37;1mhaha[m
+[19:24:15] [User Authenticator #8/INFO]: UUID of player iHuug is c2462465-5e79-4363-83a7-108d96caf5ab
+[19:24:15] [Server thread/INFO]: iHuug[/217.121.53.226:52906] logged in with entity id 49610 at ([world]1743.6530765880875, 47.13916742732474, 3377.684274933844)
+[19:24:25] [Server thread/INFO]: iHuug lost connection: Disconnected
+[19:24:25] [Server thread/INFO]: iHuug left the game
+[19:24:56] [Server thread/INFO]: SquigglyPlot57 lost connection: Disconnected
+[19:24:56] [Server thread/INFO]: SquigglyPlot57 left the game
+[19:25:47] [User Authenticator #9/INFO]: UUID of player SquigglyPlot57 is 05545f55-11d9-45c4-a102-ad1b05d034a5
+[19:25:47] [Server thread/INFO]: SquigglyPlot57[/213.184.112.222:58935] logged in with entity id 50071 at ([world]256.6999999880793, 52.0, 60.69999998807907)
+[19:27:21] [User Authenticator #10/INFO]: UUID of player iHuug is c2462465-5e79-4363-83a7-108d96caf5ab
+[19:27:21] [Server thread/INFO]: iHuug[/217.121.53.226:52927] logged in with entity id 50540 at ([world]1743.4893121256193, 63.0, 3376.9345536420046)
+[19:27:32] [Async Chat Thread - #13/INFO]: [0;35;1m[CRINGE] [0;33;22mxXPro_Gekkie_Xx: [0;37;1mkan iemand anders nog dc[m
+[19:27:37] [Async Chat Thread - #13/INFO]: [0;35;1m[CRINGE] [0;33;22mxXPro_Gekkie_Xx: [0;37;1mmet mij en dani[m
+[19:42:55] [Server thread/WARN]: SquigglyPlot57 moved wrongly!
+[19:43:18] [Server thread/INFO]: [Server] Restart, duurt 3 minuten, ik maak ff een backup van de server op github, daarna geef ik jullie de files + seed voor als je wil bouwen in crea
+[19:43:29] [Async Chat Thread - #14/INFO]: [0;35;1m[CRINGE] [0;33;22mxXPro_Gekkie_Xx: [0;37;1muhm[m
+[19:43:32] [Server thread/INFO]: [Server] Moet sws ff
+[19:43:33] [Async Chat Thread - #14/INFO]: [0;35;1m[CRINGE] [0;33;22mxXPro_Gekkie_Xx: [0;37;1mhzo hebben we de files nodig[m
+[19:43:40] [Server thread/INFO]: [Server] Jullie hebben geen files nodig
+[19:43:43] [Server thread/INFO]: [Server] maar ik wel
+[19:43:43] [Server thread/INFO]: [Server] lol
+[19:43:48] [Server thread/INFO]: [Server] Ik ga kutten met mn pc
+[19:43:50] [Async Chat Thread - #14/INFO]: [0;35;1m[CRINGE] [0;33;22mxXPro_Gekkie_Xx: [0;37;1mhaha okee[m
+[19:43:53] [Server thread/INFO]: [Server] En als ik t verneuk
+[19:43:55] [Server thread/INFO]: [Server] Dan is de hele server weg
+[19:43:58] [Async Chat Thread - #14/INFO]: [0;35;1m[CRINGE] [0;33;22mxXPro_Gekkie_Xx: [0;37;1mwat ga je doen dan[m
+[19:44:03] [Server thread/INFO]: [Server] Linux en shit
+[19:44:04] [Async Chat Thread - #14/INFO]: [0;35;1m[CRINGE] [0;33;22mxXPro_Gekkie_Xx: [0;37;1men hebben wij er last van haha[m
+[19:44:12] [Server thread/INFO]: [Server] maar moet ik harde schijf en delen doen en dat can corrupten
+[19:44:17] [Async Chat Thread - #14/INFO]: [0;35;1m[CRINGE] [0;33;22mxXPro_Gekkie_Xx: [0;37;1moef[m
+[19:44:21] [Server thread/INFO]: [Server] Je hebt er geen last van als ik nu ff backup maak hahaa
+[19:44:25] [Async Chat Thread - #14/INFO]: [0;35;1m[CRINGE] [0;33;22mxXPro_Gekkie_Xx: [0;37;1misg haha[m
+[19:44:26] [Async Chat Thread - #14/INFO]: [21m[ADMIN ZONDER PERMS] [0;32;1mTimDeBeast047: [0;37;1mihug[m
+[19:44:26] [Server thread/INFO]: There are 4 of a max of 20 players online: GuidedPhantom, FG_YUICY, SquigglyPlot57, iHuug
+[19:44:26] [Async Chat Thread - #14/INFO]: [0;35;1m[CRINGE] [0;33;22mxXPro_Gekkie_Xx: [0;37;1mdoe mr[m
+[19:44:27] [Async Chat Thread - #14/INFO]: [21m[ADMIN ZONDER PERMS] [0;32;1mTimDeBeast047: [0;37;1mbacc[m
+[19:44:29] [Async Chat Thread - #14/INFO]: [0;35;1m[CRINGE] [0;33;22mxXPro_Gekkie_Xx: [0;37;1mdc[m
+[19:44:30] [Async Chat Thread - #14/INFO]: [0;35;1m[CRINGE] [0;33;22mxXPro_Gekkie_Xx: [0;37;1mdc[m
+[19:44:31] [Async Chat Thread - #14/INFO]: [0;35;1m[CRINGE] [0;33;22mxXPro_Gekkie_Xx: [0;37;1mdc[m
+[19:44:31] [Async Chat Thread - #14/INFO]: [0;35;1m[CRINGE] [0;33;22mxXPro_Gekkie_Xx: [0;37;1mdc[m
+[19:44:38] [Server thread/INFO]: [Server] Ik kom zo ook dc
+[19:44:40] [Server thread/INFO]: [Server] maar ff restart dus
+[19:44:43] [Server thread/INFO]: [Server] 5
+[19:44:44] [Server thread/INFO]: [Server] 4
+[19:44:44] [Async Chat Thread - #14/INFO]: [0;35;1m[CRINGE] [0;33;22mxXPro_Gekkie_Xx: [0;37;1mjoe[m
+[19:44:45] [Server thread/INFO]: [Server] 3
+[19:44:46] [Server thread/INFO]: [Server] 2
+[19:44:47] [Server thread/INFO]: [Server] 1
+[19:44:48] [Server thread/INFO]: [Server] joe
+[19:44:48] [Async Chat Thread - #14/INFO]: [21m[ADMIN ZONDER PERMS] [0;32;1mTimDeBeast047: [0;37;1mbruh\[m
+[19:44:48] [Server thread/INFO]: Stopping the server
+[19:44:48] [Server thread/INFO]: Stopping server
+[19:44:48] [Server thread/INFO]: [JochenGangSMP] Disabling JochenGangSMP v1.0
+[19:44:48] [Server thread/INFO]: [JochenGangSMP] §bDe JochenGangSMP Plugin is uitgeschakeld!
+[19:44:48] [Server thread/INFO]: [VoteSysteem] Disabling VoteSysteem v1.0
+[19:44:48] [Server thread/INFO]: [0;31;1mHet votesysteem is uitgeschakeld![m
+[19:44:48] [Server thread/INFO]: [BetterStaff] Disabling BetterStaff v1.0-SNAPSHOT
+[19:44:48] [Server thread/INFO]: [BetterSleeping3] Disabling BetterSleeping3 v3.0.6
+[19:44:48] [Server thread/INFO]: Saving players
+[19:44:48] [Server thread/INFO]: GuidedPhantom lost connection: Server closed
+[19:44:49] [Server thread/INFO]: GuidedPhantom left the game
+[19:44:49] [Server thread/INFO]: FG_YUICY lost connection: Server closed
+[19:44:49] [Server thread/INFO]: FG_YUICY left the game
+[19:44:49] [Server thread/INFO]: SquigglyPlot57 lost connection: Server closed
+[19:44:49] [Server thread/INFO]: SquigglyPlot57 left the game
+[19:44:49] [Server thread/INFO]: iHuug lost connection: Server closed
+[19:44:49] [Server thread/INFO]: iHuug left the game
+[19:44:49] [Server thread/INFO]: Saving worlds
+[19:44:49] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[19:44:49] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[19:44:49] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[19:44:49] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[19:44:49] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[19:44:49] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[19:44:50] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[19:44:50] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[19:44:50] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved

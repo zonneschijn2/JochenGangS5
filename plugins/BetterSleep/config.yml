@@ -1,0 +1,25 @@
+speed: 20
+min: 0.0
+max: 1.0
+scale: true
+broadcast: true
+broadcastEnabled:
+  sleep: true
+  enterworld: true
+  wakeup: true
+  quit: true
+  join: true
+  leftworld: true
+broadcastMessage:
+  sleep: '%name% went to bed. There are %sleeping%/%total% sleeping which fastforwards
+    the night by %percent%%'
+  enterworld: '%name% entered the world. There are %sleeping%/%total% sleeping which
+    fastforwards the night by %percent%%'
+  wakeup: '%name% woke up. There are %sleeping%/%total% sleeping which fastforwards
+    the night by %percent%%'
+  quit: '%name% quit the game. There are %sleeping%/%total% sleeping which fastforwards
+    the night by %percent%%'
+  join: '%name% joined the game. There are %sleeping%/%total% sleeping which fastforwards
+    the night by %percent%%'
+  leftworld: '%name% left the world. There are %sleeping%/%total% sleeping which fastforwards
+    the night by %percent%%'

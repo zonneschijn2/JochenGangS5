@@ -1,0 +1,10 @@
+Elytra
+	Elytra Part 1
+		4x Special Emerald = 9 Emerald blocks per
+		4x Special Rod = 9 Blaze rod per
+	Elytra Part 2 
+		4x Special Eye = 9 Eye per 
+		5x Special Feather = 9 Feathers per
+	Elytra part 3
+		9x Special Feather = 9 Feathers per 	
+		
